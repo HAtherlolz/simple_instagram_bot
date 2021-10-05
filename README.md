@@ -2,7 +2,7 @@
 
 This bot can make follow to followers from user account that u will put in input.
 
-##Requirements
+Requirements
 ```buildoutcfg
 python no less than 3.8
 
