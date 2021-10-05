@@ -21,13 +21,13 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install require
 pip install -r /path/to/requirements.txt
 ```
 
-## You also can run
+You also can run
 ```bash
 pip install selenium
 ```
 
 ## Usage
-##Your instagram accounts data
+Your instagram accounts data
 
 ```python
 #main.py
@@ -40,7 +40,7 @@ user_pw = 'password'
 
 ```
 
-##Bot config
+Bot config
 
 ```python
 #main.py
@@ -57,7 +57,7 @@ amount_by_cycle = 210
 
 ```
 
-##Set your config there
+ScrollBox config
 
 ```python
 #simple_instagrma_bot.py
@@ -74,7 +74,7 @@ amount_of_scrollbox_pixels = '40000'
 ```
 
 
-#Bot launch
+Bot launch
 ```bash
 
 python main.py
