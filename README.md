@@ -21,7 +21,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install require
 pip install -r /path/to/requirements.txt
 ```
 
-## You also can run this script
+## You also can run
 ```bash
 pip install selenium
 ```
