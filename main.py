@@ -13,8 +13,8 @@
 from simple_instagram_bot import InstaBot
 
 
-user_name = 'ddddzzzsaad'
-user_pw = '1003kv2000'
+user_name = ''
+user_pw = ''
 fn = 'caseit_ua'
 amount_by_hour = 30
 amount_by_cycle = 210
